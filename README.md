@@ -7,31 +7,31 @@ por Javier Bernal Guerrero utilizando Angular 4 y PHP.
 A continuación os dejo un manual de usuario de la aplicación:
 ## Gestión de usuarios
 
-	# Registrar nuevo usuario
+	- Registrar nuevo usuario
 	Para registrar un nuevo usuario, nos dirigimos al enlace “Crear cuenta”.
 	Al hacerlo nos saldrá un dialogo con un formulario con los datos necesarios para crear la
 	cuenta. Al rellenarlo se inicia automáticamente sesión en la web.
 
 
-	Identificarse en la web para acceder al contenido
+	- Identificarse en la web para acceder al contenido
 	Al rellenar el formulario para crear una nueva cuenta se inicia sesión automáticamente.
 	Para después volver a iniciar sesión pulsamos sobre la opción “Login” e introducimos el
 	usuario y la contraseña.
 
 
-	*Modificar perfil de usuario*
+	- Modificar perfil de usuario
 	Para acceder a esta funcionalidad pulsamos sobre el desplegable y seleccionamos:
 	“Configuraciones → Perfil”. Este menú ofrece al usuario información sobre el perfil así
 	como la opción de modificar algunos de los campos como el nombre del perfil, el correo
 	electrónico o la contraseña de la cuenta.
 
 
-	*Eliminar perfil de usuario*
+	- Eliminar perfil de usuario
 	Esta función solo la puede realizar un usuario administrador. Por favor, ponte en
 	contacto con el equipo de administradores si es tu caso.
 
 
-	*Usuario administrador*
+	- Usuario administrador
 	Un usuario administrador tiene los mismos servicios que la web ofrece al resto de
 	usuarios con algunos servicios añadidos. Por el momento un usuario administrador solo
 	cuenta con la funcionalidad añadida de gestionar las cuentas del resto de usuarios. Este
