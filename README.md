@@ -12,6 +12,7 @@ A continuación os dejo un manual de usuario de la aplicación:
 	Al hacerlo nos saldrá un dialogo con un formulario con los datos necesarios para crear la
 	cuenta. Al rellenarlo se inicia automáticamente sesión en la web.
 
+	![Crear cuenta](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/Home%20-%20Crear_Cuenta.PNG)
 
 ### Identificarse en la web para acceder al contenido
 	Al rellenar el formulario para crear una nueva cuenta se inicia sesión automáticamente.
