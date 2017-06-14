@@ -48,7 +48,7 @@ y luego pueda descargarlo desde cualquier otro dispositivo. La interfaz es muy s
 intuitiva pero vamos a resumir la explicación a los dos siguientes pasos:
 
 
-Subir un archivo
+- Subir un archivo
 	Para subir un archivo solo tenemos que pulsar sobre el botón “+ Seleccionar”. Esta
 	opción hará aparecer una ventana emergente donde podremos seleccionar los archivos
 	que queremos subir. Por el momento no existe ningún limite de archivos subidos de
@@ -57,7 +57,7 @@ Subir un archivo
 	tendrás que volver a subirlos.
 
 
-Descargar un archivo
+- Descargar un archivo
 	Una vez que has subidos los archivos a nuestros servidores, estos se ordenaran
 	automáticamente en un sistema de carpetas divididos en: Documentos, Imágenes,
 	Música, Videos y Otros (cualquier tipo de archivo que no coincide con las categorías
@@ -65,12 +65,12 @@ Descargar un archivo
 	del archivo/carpeta, tamaño del archivo/carpeta y el tipo de extensión del archivo.
 	Por el momento, las acciones que se pueden realizar con los archivos son:
 
-Descargar
+- Descargar
 	Inicia una descarga del fichero seleccionado. Una vez llegado este punto,
 	dependiendo del navegador que utilices se ejecutara la descarga de diferentes formas.
 
-Borrar
+- Borrar
 	Tras un mensaje de aviso y confirmación realiza la eliminación del archivo tanto en
 	el servidor como en la base de datos.
 
-Para mas información consulta la [documentacion](ENLACE)
+Para mas información consulta la [documentacion](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Proyecto%20Integrado%20-%20Documentacion.pdf)
