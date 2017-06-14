@@ -19,7 +19,7 @@ A continuación os dejo un manual de usuario de la aplicación:
 	Para después volver a iniciar sesión pulsamos sobre la opción “Login” e introducimos el
 	usuario y la contraseña.
 
-![Crear cuenta](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/Home%20-%20Login.PNG)
+![Identificarse en la web](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/Home%20-%20Login.PNG)
 
 ### Modificar perfil de usuario
 	Para acceder a esta funcionalidad pulsamos sobre el desplegable y seleccionamos:
@@ -27,7 +27,7 @@ A continuación os dejo un manual de usuario de la aplicación:
 	como la opción de modificar algunos de los campos como el nombre del perfil, el correo
 	electrónico o la contraseña de la cuenta.
 
-![Crear cuenta](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/App%20-%20Perfil.PNG)
+![Modificar datos de la cuenta](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/App%20-%20Perfil.PNG)
 
 ### Eliminar perfil de usuario
 	Esta función solo la puede realizar un usuario administrador. Por favor, ponte en
@@ -43,7 +43,7 @@ A continuación os dejo un manual de usuario de la aplicación:
 	- Modificar la fecha de creación de la cuenta de un usuario cualquiera.
 	- Borrar un usuario cualquiera.
 
-![Crear cuenta](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/Home%20-%20Crear_Cuenta_Formulario.PNG)
+![Opciones del usuario administrador](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/App%20-%20Cuentas1.PNG)
 
 ## Gestor de archivos
 Esta es la funcionalidad principal de la web. Permite que un usuario suba cualquier fichero*
@@ -59,6 +59,7 @@ intuitiva pero vamos a resumir la explicación a los dos siguientes pasos:
 	durante la subida de archivos existe algún problema, se cancelan todos los archivos y
 	tendrás que volver a subirlos.
 
+![Subir archivo](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/App%20-%20Gestor_Archivos_Upload.PNG)
 
 ### Descargar un archivo
 	Una vez que has subidos los archivos a nuestros servidores, estos se ordenaran
@@ -75,5 +76,7 @@ intuitiva pero vamos a resumir la explicación a los dos siguientes pasos:
 ### Borrar
 	Tras un mensaje de aviso y confirmación realiza la eliminación del archivo tanto en
 	el servidor como en la base de datos.
+
+![Opciones de archivos](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/App%20-%20Gestor_Archivos_Download.PNG)
 
 Para mas información consulta la [documentacion](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Proyecto%20Integrado%20-%20Documentacion.pdf)
