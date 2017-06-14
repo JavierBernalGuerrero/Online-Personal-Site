@@ -98,4 +98,6 @@ intuitiva pero vamos a resumir la explicación a los dos siguientes pasos:
 	- Insertar una vista para código.
 	- Limpiar todo el formato para una selección.
 
+![Editor](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/App%20-%20Editor.PNG)
+
 Para mas información consulta la [documentacion](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Proyecto%20Integrado%20-%20Documentacion.pdf)
