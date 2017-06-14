@@ -7,13 +7,13 @@ por Javier Bernal Guerrero utilizando Angular 4 y PHP.
 A continuación os dejo un manual de usuario de la aplicación:
 ## Gestión de usuarios
 
-	## Registrar nuevo usuario
+	# Registrar nuevo usuario
 	Para registrar un nuevo usuario, nos dirigimos al enlace “Crear cuenta”.
 	Al hacerlo nos saldrá un dialogo con un formulario con los datos necesarios para crear la
 	cuenta. Al rellenarlo se inicia automáticamente sesión en la web.
 
 
-	*Identificarse en la web para acceder al contenido*
+	Identificarse en la web para acceder al contenido
 	Al rellenar el formulario para crear una nueva cuenta se inicia sesión automáticamente.
 	Para después volver a iniciar sesión pulsamos sobre la opción “Login” e introducimos el
 	usuario y la contraseña.
