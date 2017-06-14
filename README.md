@@ -8,9 +8,9 @@ A continuación os dejo un manual de usuario de la aplicación:
 ## Gestión de usuarios
 
 - Registrar nuevo usuario
-	Para registrar un nuevo usuario, nos dirigimos al enlace “Crear cuenta”.
-	Al hacerlo nos saldrá un dialogo con un formulario con los datos necesarios para crear la
-	cuenta. Al rellenarlo se inicia automáticamente sesión en la web.
+Para registrar un nuevo usuario, nos dirigimos al enlace “Crear cuenta”.
+Al hacerlo nos saldrá un dialogo con un formulario con los datos necesarios para crear la
+cuenta. Al rellenarlo se inicia automáticamente sesión en la web.
 
 
 - Identificarse en la web para acceder al contenido
