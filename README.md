@@ -79,4 +79,23 @@ intuitiva pero vamos a resumir la explicación a los dos siguientes pasos:
 
 ![Opciones de archivos](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/App%20-%20Gestor_Archivos_Download.PNG)
 
+
+## Gestor de archivos
+	Esta es la primera funcionalidad adicional desarrollada para el proyecto. Básicamente se
+	trata de un editor de texto enriquecido que permite crear documentos simples y luego
+	descargártelo, generando un documento html. Se puede configurar el nombre del archivo
+	generado modificando el campo de titulo en la parte superior del componente. En versiones
+	futura se sustituirá la generación del documento en html por pdf, permitiendo así mayor
+	adaptación como documento. Las funciones básicas que soporta el editor son:
+	
+	- Cambiar el tipo de fuente y su tamaño (Cabecera, subtitulo y cuerpo).
+	- Crear listas: numeradas y desordenadas.
+	- Formatos simples: negrita, cursiva y subrayado.
+	- Cambiar el color de fuente y de fondo.
+	- Ajustar la alineación del texto.
+	- Insertar una imagen.
+	- Insertar un hipervínculo.
+	- Insertar una vista para código.
+	- Limpiar todo el formato para una selección.
+
 Para mas información consulta la [documentacion](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Proyecto%20Integrado%20-%20Documentacion.pdf)
