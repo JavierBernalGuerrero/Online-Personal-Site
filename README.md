@@ -61,7 +61,7 @@ intuitiva pero vamos a resumir la explicación a los dos siguientes pasos:
 
 ![Subir archivo](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/App%20-%20Gestor_Archivos_Upload.PNG)
 
-### Descargar un archivo
+#### Descargar un archivo
 	Una vez que has subidos los archivos a nuestros servidores, estos se ordenaran
 	automáticamente en un sistema de carpetas divididos en: Documentos, Imágenes,
 	Música, Videos y Otros (cualquier tipo de archivo que no coincide con las categorías
@@ -69,11 +69,11 @@ intuitiva pero vamos a resumir la explicación a los dos siguientes pasos:
 	del archivo/carpeta, tamaño del archivo/carpeta y el tipo de extensión del archivo.
 	Por el momento, las acciones que se pueden realizar con los archivos son:
 
-### Descargar
+#### Descargar
 	Inicia una descarga del fichero seleccionado. Una vez llegado este punto,
 	dependiendo del navegador que utilices se ejecutara la descarga de diferentes formas.
 
-### Borrar
+#### Borrar
 	Tras un mensaje de aviso y confirmación realiza la eliminación del archivo tanto en
 	el servidor como en la base de datos.
 
