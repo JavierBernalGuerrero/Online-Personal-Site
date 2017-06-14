@@ -1,6 +1,6 @@
 # [OPS - Online Personal Site](http://ops.pe.hu)
 
-Este proyecto nació de la necesidad de disponer de un espacio personal para poder trabajar 
+Este proyecto nació de la necesidad de disponer de un espacio personal con el que poder trabajar 
 desde cualquier dispositivo de una forma cómoda y siempre en el mismo entorno. El proyecto ha sido desarrollado
 por Javier Bernal Guerrero utilizando Angular 4 y PHP como tecnologías base.
 
