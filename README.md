@@ -12,13 +12,14 @@ A continuación os dejo un manual de usuario de la aplicación:
 	Al hacerlo nos saldrá un dialogo con un formulario con los datos necesarios para crear la
 	cuenta. Al rellenarlo se inicia automáticamente sesión en la web.
 
-![Crear cuenta](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/Home%20-%20Crear_Cuenta.PNG)
+![Crear cuenta](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/Home%20-%20Crear_Cuenta_Formulario.PNG)
 
 ### Identificarse en la web para acceder al contenido
 	Al rellenar el formulario para crear una nueva cuenta se inicia sesión automáticamente.
 	Para después volver a iniciar sesión pulsamos sobre la opción “Login” e introducimos el
 	usuario y la contraseña.
 
+![Crear cuenta](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/Home%20-%20Login.PNG)
 
 ### Modificar perfil de usuario
 	Para acceder a esta funcionalidad pulsamos sobre el desplegable y seleccionamos:
@@ -26,11 +27,11 @@ A continuación os dejo un manual de usuario de la aplicación:
 	como la opción de modificar algunos de los campos como el nombre del perfil, el correo
 	electrónico o la contraseña de la cuenta.
 
+![Crear cuenta](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/App%20-%20Perfil.PNG)
 
 ### Eliminar perfil de usuario
 	Esta función solo la puede realizar un usuario administrador. Por favor, ponte en
 	contacto con el equipo de administradores si es tu caso.
-
 
 ### Usuario administrador
 	Un usuario administrador tiene los mismos servicios que la web ofrece al resto de
@@ -42,6 +43,7 @@ A continuación os dejo un manual de usuario de la aplicación:
 	- Modificar la fecha de creación de la cuenta de un usuario cualquiera.
 	- Borrar un usuario cualquiera.
 
+![Crear cuenta](https://github.com/JavierBernalGuerrero/Online-Personal-Site/blob/master/Capturas/Home%20-%20Crear_Cuenta_Formulario.PNG)
 
 ## Gestor de archivos
 Esta es la funcionalidad principal de la web. Permite que un usuario suba cualquier fichero*
